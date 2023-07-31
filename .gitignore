@@ -1,0 +1,5 @@
+/.*
+!/.gitignore
+miniconda3/
+*.sh
+*.gz
