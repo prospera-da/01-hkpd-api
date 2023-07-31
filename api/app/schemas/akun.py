@@ -13,14 +13,12 @@ class BaseAkun(BaseModel):
     objek: str
     rincian_objek: str
     sub_rincian_objek: str
-    uraian: str
     level1: str
     level2: str
     level3: str
     level4: str
     level5: str
     level6: str
-    standar_sub_rinci: str
 
     class Config:
         orm_mode = True
@@ -33,14 +31,12 @@ class Akun(BaseModel):
     objek: str
     rincian_objek: str
     sub_rincian_objek: str
-    uraian: str
     level1: str
     level2: str
     level3: str
     level4: str
     level5: str
     level6: str
-    standar_sub_rinci: str
 
     class Config:
         orm_mode = True
@@ -78,14 +74,12 @@ class AkunIn(BaseModel):
     objek: str
     rincian_objek: str
     sub_rincian_objek: str
-    uraian: str
     level1: str
     level2: str
     level3: str
     level4: str
     level5: str
     level6: str
-    standar_sub_rinci: str
 
     class Config:
         orm_mode = True

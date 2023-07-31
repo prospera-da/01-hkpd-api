@@ -15,7 +15,6 @@ async def match_akun(request_in: akun_schemas.MatchAkunIn, db: Session):
                             request_in_data.objek,
                             request_in_data.rincian_objek,
                             request_in_data.sub_rincian_objek,
-                            request_in_data.uraian,
                             request_in_data.level1,
                             request_in_data.level2,
                             request_in_data.level3,
@@ -29,7 +28,6 @@ async def match_akun(request_in: akun_schemas.MatchAkunIn, db: Session):
                     request_in_data.after.objek,
                     request_in_data.after.rincian_objek,
                     request_in_data.after.sub_rincian_objek,
-                    request_in_data.after.uraian,
                     request_in_data.after.level1,
                     request_in_data.after.level2,
                     request_in_data.after.level3,
@@ -39,7 +37,7 @@ async def match_akun(request_in: akun_schemas.MatchAkunIn, db: Session):
 
     res = [db.query(akun_models.Akun).filter(
         text(f"""to_tsvector('simple', f_concat_ws('', akun, kelompok, jenis, objek,
-                                                    rincian_objek, sub_rincian_objek, uraian,
+                                                    rincian_objek, sub_rincian_objek, 
                                                     level1,level2,level3,
                                                     level4,level5,level6)
              )
