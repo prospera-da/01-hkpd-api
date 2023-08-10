@@ -4,6 +4,7 @@ from ..models import log as log_models
 from ..schemas import akun as akun_schemas
 from typing import Dict, List, Union
 from hashlib import sha256
+from datetime import datetime
 
 async def insert_log(log: Dict, db: Session):
     data_string = [''.join(i) for i in [dict(data).values() for data in log["data"]]]
@@ -17,6 +18,7 @@ async def insert_log(log: Dict, db: Session):
                                 data_hash = data_hash[idx],
             match_with_ground_truth = match_with_ground_truth[idx],
             ground_truth_id = ground_truth_id[idx],
+            created_at = datetime.now(),
         )
         db.add(record)
         db.commit()

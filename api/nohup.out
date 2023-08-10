@@ -1,0 +1,577 @@
+INFO:     Will watch for changes in these directories: ['/home/developer/api']
+INFO:     Uvicorn running on http://139.180.145.25:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [76678] using StatReload
+INFO:     Started server process [76683]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Log has been added
+INFO:     103.136.58.0:24019 - "POST /match_akun HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.17:54826 - "CONNECT example.com%3A80 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+Log has been added
+INFO:     103.136.58.0:23987 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.136.58.0:23988 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.136.58.0:23990 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.136.58.0:23997 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.136.58.0:23809 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.136.58.0:23812 - "POST /match_akun HTTP/1.1" 200 OK
+INFO:     198.235.24.100:63396 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.33.87.154:47288 - "GET / HTTP/1.1" 404 Not Found
+INFO:     172.104.11.51:31500 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.180.143.18:48092 - "GET /admin/ HTTP/1.1" 404 Not Found
+INFO:     185.180.143.18:48100 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.180.143.18:36558 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.217:47748 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.217:34242 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     170.64.166.144:50120 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     170.64.166.144:50136 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     170.64.166.144:50150 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.7.59:54032 - "GET / HTTP/1.0" 404 Not Found
+INFO:     139.162.7.59:54054 - "GET /nice%20ports%2C/Trinity.txt.bak HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.7.59:54066 - "OPTIONS / HTTP/1.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.7.59:53774 - "GET /nmaplowercheck1691203078 HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53796 - "GET /XBtN HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53812 - "GET /CSS/Miniweb.css HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.7.59:53836 - "GET /home.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53784 - "GET / HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53828 - "GET /Portal/Portal.mwsl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53850 - "GET /.git/HEAD HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53882 - "GET /Portal0000.htm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53896 - "GET http%3A//www.google.com HTTP/1.0" 404 Not Found
+INFO:     139.162.7.59:54450 - "GET /HNAP1 HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54456 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54466 - "GET /docs/cplugError.html/ HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54468 - "GET /index.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54472 - "GET /__Additional HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54482 - "HEAD http%3A//www.google.com HTTP/1.0" 404 Not Found
+INFO:     139.162.7.59:54484 - "GET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42 HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54500 - "GET /server-status HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54502 - "POST /sdk HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54514 - "GET / HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54530 - "CONNECT www.google.com%3A80 HTTP/1.0" 404 Not Found
+INFO:     139.162.7.59:54518 - "GET /indice.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54532 - "GET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54542 - "GET / HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54558 - "GET /index.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54570 - "GET /main.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54586 - "GET /base.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54602 - "GET /inicio.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54614 - "GET /admin.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54622 - "GET /start.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54634 - "GET /localstart.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54646 - "GET /start.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54650 - "GET /localstart.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54658 - "GET /readme.txt HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54672 - "GET /base.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54686 - "GET /admin.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54688 - "GET /menu.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54698 - "GET /indice.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54714 - "GET /base.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54728 - "GET /localstart.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54742 - "GET /base.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54756 - "GET /admin.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54766 - "GET /start.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54782 - "GET /main.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54784 - "GET /base.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54800 - "GET /inicio.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54810 - "GET /menu.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54820 - "GET /base.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54828 - "GET /admin.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54842 - "GET /base.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54854 - "GET /home.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54860 - "GET /admin.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54864 - "GET /localstart.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54874 - "GET /admin.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54884 - "GET /default.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:53860 - "GET / HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54888 - "GET /inicio.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54892 - "GET /admin.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54902 - "GET /admin.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54912 - "GET /admin.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54924 - "GET /main.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54930 - "GET /main.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54936 - "GET /default.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54944 - "GET /base.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54952 - "GET /admin.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54968 - "GET /default.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54970 - "GET /main.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:54984 - "GET /base.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55000 - "GET /default.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55002 - "GET /menu.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55010 - "GET /base.inc HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55012 - "GET /indice.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55026 - "GET /admin.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55042 - "GET /home.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55046 - "GET /base.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55058 - "GET /inicio.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55070 - "GET /indice.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55080 - "GET /indice.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55094 - "GET /indice.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55102 - "GET /home.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55116 - "GET /localstart.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55126 - "GET /home.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55138 - "GET /index.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55150 - "GET /default.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55164 - "GET /default.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55176 - "GET /indice.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55180 - "GET /index.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:55184 - "GET /start.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45854 - "GET /indice.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45866 - "GET /indice.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45874 - "GET /inicio.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45888 - "GET /start.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45896 - "GET /home.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45906 - "GET /home.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45922 - "GET /default.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45934 - "GET /main.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45950 - "GET /start.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45958 - "GET /inicio.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45972 - "GET /inicio.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45974 - "GET /inicio.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45976 - "GET /base.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:45986 - "GET /home.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46000 - "GET /start.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46010 - "GET /localstart.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46022 - "GET /inicio.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46036 - "GET /index.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46040 - "GET /localstart.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46048 - "GET /start.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46054 - "GET /index.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46070 - "GET /default.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46084 - "GET /localstart.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46098 - "GET /localstart.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46114 - "GET /menu.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46120 - "GET /main.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46122 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46138 - "GET /index.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46146 - "GET /index.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46156 - "GET /start.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46164 - "GET /default.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46170 - "GET /start.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46182 - "GET /menu.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46194 - "GET /menu.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46202 - "GET /main.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46214 - "GET /menu.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46228 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46244 - "GET /menu.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46256 - "GET /start.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46272 - "GET /menu.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46280 - "GET /home.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46290 - "GET /indice.aspx HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46302 - "GET /default.php HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46318 - "GET /inicio.shtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46332 - "GET /home.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46340 - "GET /main.pl HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46348 - "GET /home.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46358 - "GET /inicio.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46370 - "GET /main.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46374 - "GET /main.jhtml HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46384 - "GET default.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46398 - "GET /index.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46414 - "GET /default.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46428 - "GET /localstart.cfm HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46434 - "GET /index.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46448 - "GET /menu.jsp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46454 - "GET /menu.cgi HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46456 - "GET /localstart.asp HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46468 - "GET /indice.jsa HTTP/1.1" 404 Not Found
+INFO:     139.162.7.59:46480 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.243.136.71:53514 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     198.235.24.150:59074 - "GET / HTTP/1.1" 404 Not Found
+INFO:     198.235.24.5:63512 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.62.197.39:63929 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.62.197.45:61677 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     64.62.197.37:59549 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     64.62.197.35:64995 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.141:53178 - "GET / HTTP/1.1" 404 Not Found
+INFO:     45.128.232.135:43314 - "CONNECT google.com%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     87.121.221.176:57358 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.224.128.141:35068 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.178:60022 - "GET / HTTP/1.1" 404 Not Found
+INFO:     65.49.20.77:7641 - "GET / HTTP/1.1" 404 Not Found
+INFO:     65.49.20.109:55935 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     65.49.20.105:2637 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     65.49.20.101:60481 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     81.209.147.6:34494 - "GET / HTTP/1.1" 404 Not Found
+INFO:     81.209.147.6:34540 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     185.224.128.141:40134 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.33.80.243:40864 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.214:49858 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.214:59652 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.248.133.37:54962 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.248.133.37:60738 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.248.133.37:57280 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.141:38078 - "GET / HTTP/1.1" 404 Not Found
+INFO:     95.214.55.244:48324 - "GET / HTTP/1.1" 404 Not Found
+INFO:     205.210.31.106:62648 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.146.55:42138 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.146.55:39916 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.146.55:41334 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.141:44710 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.215:45886 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.215:41020 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.215:60790 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     103.111.211.82:59362 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.111.211.82:59362 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.111.211.82:59390 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.111.211.82:59390 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.111.211.82:62527 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.111.211.82:62527 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.111.211.82:62529 - "POST /match_akun HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.AdminShutdown: terminating connection due to administrator command
+SSL connection has been closed unexpectedly
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/applications.py", line 289, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/routing.py", line 190, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/api/app/routers/akun.py", line 22, in match_akun
+    match_result = await akun_controllers.match_akun(request_in=request_in, db=db)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/api/app/controllers/akun.py", line 29, in match_akun
+    match_result = await akun_services.match_akun(request_in, db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/api/app/services/akun.py", line 38, in match_akun
+    res = [db.query(akun_models.Akun).filter(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/api/app/services/akun.py", line 45, in <listcomp>
+    ).first() for ts_query in ts_queries]
+      ^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2824, in first
+    return self.limit(1)._iter().first()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1717, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1710, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 334, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1577, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1953, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2134, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (psycopg2.errors.AdminShutdown) terminating connection due to administrator command
+SSL connection has been closed unexpectedly
+
+[SQL: SELECT ground_truth_akun.id AS ground_truth_akun_id, ground_truth_akun.akun AS ground_truth_akun_akun, ground_truth_akun.kelompok AS ground_truth_akun_kelompok, ground_truth_akun.jenis AS ground_truth_akun_jenis, ground_truth_akun.objek AS ground_truth_akun_objek, ground_truth_akun.rincian_objek AS ground_truth_akun_rincian_objek, ground_truth_akun.sub_rincian_objek AS ground_truth_akun_sub_rincian_objek, ground_truth_akun.level1 AS ground_truth_akun_level1, ground_truth_akun.level2 AS ground_truth_akun_level2, ground_truth_akun.level3 AS ground_truth_akun_level3, ground_truth_akun.level4 AS ground_truth_akun_level4, ground_truth_akun.level5 AS ground_truth_akun_level5, ground_truth_akun.level6 AS ground_truth_akun_level6 
+FROM ground_truth_akun 
+WHERE to_tsvector('simple', f_concat_ws('', akun, kelompok, jenis, objek,
+                                                    rincian_objek, sub_rincian_objek, 
+                                                    level1,level2,level3,
+                                                    level4,level5,level6)
+             )
+             @@ plainto_tsquery('simple', '111211ASETASET LANCARKas dan Setara KasKas di Bendahara PenerimaanKas di Bendahara PenerimaanKas di Bendahara Penerimaan') 
+ LIMIT %(param_1)s]
+[parameters: {'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+Log has been added
+INFO:     103.111.211.82:62548 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.111.211.82:62552 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.111.211.82:62553 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.111.211.82:62555 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.111.211.82:62563 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.111.211.82:62569 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.111.211.82:62608 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.111.211.82:62616 - "POST /match_akun HTTP/1.1" 200 OK
+INFO:     65.49.1.119:53405 - "GET / HTTP/1.1" 404 Not Found
+INFO:     65.49.1.109:35995 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     65.49.1.113:42861 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     65.49.1.121:23673 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+INFO:     164.92.186.38:41398 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.141:59416 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.141:46950 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.49:32926 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.49:41630 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.49:45412 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     137.184.85.24:56546 - "GET /aaa9 HTTP/1.1" 404 Not Found
+INFO:     137.184.85.24:56554 - "GET /aab8 HTTP/1.1" 404 Not Found
+INFO:     137.184.85.24:54118 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     185.224.128.17:58648 - "CONNECT example.com%3A80 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     95.214.55.244:33938 - "GET / HTTP/1.1" 404 Not Found
+INFO:     74.82.47.46:55129 - "GET / HTTP/1.1" 404 Not Found
+INFO:     74.82.47.50:61699 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     74.82.47.22:55375 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     74.82.47.30:31779 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+INFO:     198.235.24.199:64116 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.224.128.141:42932 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     47.245.117.192:39204 - "GET / HTTP/1.1" 404 Not Found
+INFO:     47.245.117.192:39746 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     47.245.117.192:39822 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     205.210.31.71:63736 - "GET / HTTP/1.1" 404 Not Found
+INFO:     192.241.233.35:58614 - "GET / HTTP/1.1" 404 Not Found
+INFO:     103.111.211.82:51395 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.111.211.82:51395 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     94.102.61.48:41978 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.224.128.141:57546 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     193.37.255.114:49860 - "GET / HTTP/1.1" 404 Not Found
+INFO:     193.37.255.114:50252 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     87.236.176.104:34453 - "GET / HTTP/1.1" 404 Not Found
+INFO:     172.104.11.34:40512 - "GET / HTTP/1.1" 404 Not Found
+INFO:     35.84.23.239:57888 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     205.210.31.213:63194 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.224.128.141:51458 - "GET / HTTP/1.1" 404 Not Found
+INFO:     103.136.58.0:23881 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23881 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     103.136.58.0:23973 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23973 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     185.224.128.141:43902 - "GET / HTTP/1.1" 404 Not Found
+INFO:     103.136.58.0:23849 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23849 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23849 - "GET /get_akun HTTP/1.1" 404 Not Found
+INFO:     103.136.58.0:23849 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     198.235.24.5:60704 - "GET / HTTP/1.1" 404 Not Found
+INFO:     103.136.58.0:23887 - "GET /akun/1 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.AdminShutdown: terminating connection due to administrator command
+SSL connection has been closed unexpectedly
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/applications.py", line 289, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/applications.py", line 122, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 79, in __call__
+    raise exc
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 68, in __call__
+    await self.app(scope, receive, sender)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in __call__
+    raise e
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in __call__
+    await self.app(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/routing.py", line 718, in __call__
+    await route.handle(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/starlette/routing.py", line 66, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/routing.py", line 273, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/fastapi/routing.py", line 190, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/api/app/routers/akun.py", line 13, in get_akun
+    akun_record = await akun_controllers.get_akun(db, id=id)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/api/app/controllers/akun.py", line 16, in get_akun
+    akun_record = await akun_services.get_akun(db, id)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/api/app/services/akun.py", line 7, in get_akun
+    res = db.query(akun_models.Akun).filter(akun_models.Akun.id == id).first()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2824, in first
+    return self.limit(1)._iter().first()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/orm/query.py", line 2916, in _iter
+    result = self.session.execute(
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 1717, in execute
+    result = conn._execute_20(statement, params or {}, execution_options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1710, in _execute_20
+    return meth(self, args_10style, kwargs_10style, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 334, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1577, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1953, in _execute_context
+    self._handle_dbapi_exception(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2134, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1910, in _execute_context
+    self.dialect.do_execute(
+  File "/home/developer/miniconda3/envs/hkpd/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 736, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.OperationalError: (psycopg2.errors.AdminShutdown) terminating connection due to administrator command
+SSL connection has been closed unexpectedly
+
+[SQL: SELECT ground_truth_akun.id AS ground_truth_akun_id, ground_truth_akun.akun AS ground_truth_akun_akun, ground_truth_akun.kelompok AS ground_truth_akun_kelompok, ground_truth_akun.jenis AS ground_truth_akun_jenis, ground_truth_akun.objek AS ground_truth_akun_objek, ground_truth_akun.rincian_objek AS ground_truth_akun_rincian_objek, ground_truth_akun.sub_rincian_objek AS ground_truth_akun_sub_rincian_objek, ground_truth_akun.level1 AS ground_truth_akun_level1, ground_truth_akun.level2 AS ground_truth_akun_level2, ground_truth_akun.level3 AS ground_truth_akun_level3, ground_truth_akun.level4 AS ground_truth_akun_level4, ground_truth_akun.level5 AS ground_truth_akun_level5, ground_truth_akun.level6 AS ground_truth_akun_level6 
+FROM ground_truth_akun 
+WHERE ground_truth_akun.id = %(id_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'id_1': 1, 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+INFO:     103.136.58.0:23890 - "GET /docs HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23890 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23891 - "GET /akun/1 HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23861 - "GET /akun/32 HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23864 - "GET /akun/8000 HTTP/1.1" 200 OK
+INFO:     103.136.58.0:23866 - "GET /akun/800000 HTTP/1.1" 404 Not Found
+Log has been added
+INFO:     103.136.58.0:23882 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.136.58.0:23903 - "POST /match_akun HTTP/1.1" 200 OK
+Log has been added
+INFO:     103.136.58.0:23909 - "POST /match_akun HTTP/1.1" 200 OK
+INFO:     185.224.128.141:46452 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     35.195.93.98:47184 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.62.197.151:57511 - "GET / HTTP/1.1" 404 Not Found
+INFO:     64.62.197.145:42153 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     64.62.197.151:39701 - "GET http%3A//api.ipify.org/?format=json HTTP/1.1" 404 Not Found
+INFO:     64.62.197.142:53727 - "CONNECT www.shadowserver.org%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     45.128.232.84:55052 - "CONNECT www.twitch.tv%3A443 HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.214:50520 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.214:47250 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.248.133.49:50080 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.248.133.49:49278 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.248.133.49:60224 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.126:37084 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.126:41054 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.126:55618 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     142.4.218.114:56349 - "GET / HTTP/1.1" 404 Not Found
+INFO:     5.196.102.66:59263 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     178.32.197.94:52323 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
