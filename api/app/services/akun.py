@@ -9,12 +9,12 @@ async def get_akun(db: Session, id: int):
 
 async def match_akun(request_in: akun_schemas.MatchAkunIn, db: Session):
     if request_in.mode == "insert":
-        ts_queries = [''.join((request_in_data.akun,
-                            request_in_data.kelompok,
-                            request_in_data.jenis,
-                            request_in_data.objek,
-                            request_in_data.rincian_objek,
-                            request_in_data.sub_rincian_objek,
+        ts_queries = [''.join((request_in_data.akun.lstrip('0'),
+                            request_in_data.kelompok.lstrip('0'),
+                            request_in_data.jenis.lstrip('0'),
+                            request_in_data.objek.lstrip('0'),
+                            request_in_data.rincian_objek.lstrip('0'),
+                            request_in_data.sub_rincian_objek.lstrip('0'),
                             request_in_data.level1,
                             request_in_data.level2,
                             request_in_data.level3,
@@ -22,12 +22,12 @@ async def match_akun(request_in: akun_schemas.MatchAkunIn, db: Session):
                             request_in_data.level5,
                             request_in_data.level6)) for request_in_data in request_in.data]
     else:
-        ts_queries = [''.join((request_in_data.after.akun,
-                    request_in_data.after.kelompok,
-                    request_in_data.after.jenis,
-                    request_in_data.after.objek,
-                    request_in_data.after.rincian_objek,
-                    request_in_data.after.sub_rincian_objek,
+        ts_queries = [''.join((request_in_data.after.akun.lstrip('0'),
+                    request_in_data.after.kelompok.lstrip('0'),
+                    request_in_data.after.jenis.lstrip('0'),
+                    request_in_data.after.objek.lstrip('0'),
+                    request_in_data.after.rincian_objek.lstrip('0'),
+                    request_in_data.after.sub_rincian_objek.lstrip('0'),
                     request_in_data.after.level1,
                     request_in_data.after.level2,
                     request_in_data.after.level3,
