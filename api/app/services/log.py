@@ -41,6 +41,6 @@ async def update_log(logs: List[Union[log_models.Log,None]], inserted_log_id:Lis
         if log_data:
             db.query(log_models.Log).\
                 filter_by(id = log_data.id).\
-                update({'updated_by': inserted_log_id[idx]})
+                update({'updated_by': inserted_log_id[idx],'updated_at':datetime.now()})
             db.commit()
     print("Data has been updated")
