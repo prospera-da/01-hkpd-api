@@ -7,6 +7,7 @@ class ModeEnum(str, Enum):
     update = 'update'
 
 class BaseAkun(BaseModel):
+  
     akun: str
     kelompok: str
     jenis: str
@@ -42,15 +43,26 @@ class Akun(BaseModel):
         orm_mode = True
 
 class UpdateAkun(BaseModel):
-    before: BaseAkun
-    after: BaseAkun
+    id: int
+    akun: str
+    kelompok: str
+    jenis: str
+    objek: str
+    rincian_objek: str
+    sub_rincian_objek: str
+    level1: str
+    level2: str
+    level3: str
+    level4: str
+    level5: str
+    level6: str
 
 class MatchAkunIn(BaseModel):
     province: str
     regency: str
     district: str
     mode: ModeEnum
-    data: List[Union[BaseAkun, UpdateAkun]]
+    data: List[Union[UpdateAkun,BaseAkun]]
 
     class Config:
         orm_mode = True

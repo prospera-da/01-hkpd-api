@@ -3,7 +3,6 @@ from ..database import Base
 
 class Akun(Base):
     __tablename__ = 'ground_truth_akun'
-
     id = Column(Integer, primary_key=True)
     akun = Column(String)
     kelompok = Column(String)

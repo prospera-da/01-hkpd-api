@@ -1,0 +1,38 @@
+{
+    "mode": "update",
+    "province": "Jawa Barat",
+    "regency": "Bandung",
+    "district": "Cirebon",
+    "data": [
+		{
+            "id": 23016,
+            "akun": "1",
+            "kelompok": "1",
+            "jenis": "03",
+            "objek": "01",
+            "rincian_objek": "03",
+            "sub_rincian_objek": "02",
+            "level1": "ASET",
+            "level2": "ASET LANCAR",
+            "level3": "Piutang Pajak Daerah",
+            "level4": "Piutang Pajak Kendaraan Bermotor (PKB)",
+            "level5": "Piutang PKB-Mobil Penumpang-Minibus",
+            "level6": "Piutang PKB-Mobil Penumpang-Minibus-Umum"
+        },
+        {
+            "id": 22996,
+            "akun": "5",
+            "kelompok": "1",
+            "jenis": "02",
+            "objek": "04",
+            "rincian_objek": "01",
+            "sub_rincian_objek": "01",
+            "level1": "BELANJA DAERAH                                                                                                                                                                                          ",
+            "level2": "BELANJA OPERASI                                                                                                                                                                                         ",
+            "level3": "Belanja Barang dan Jasa                                                                                                                                                                                 ",
+            "level4": "Belana Perjalanan Dinas                                                                                                                                                                                 ",
+            "level5": "Belanja Perjalanan Dinas Dalam Negeri                                                                                                                                                                   ",
+            "level6": "Belanja Perjalanan Dinas Dalam Kota                                                                                                                                                                     "
+        }
+    ]
+}

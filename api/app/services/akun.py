@@ -21,19 +21,20 @@ async def match_akun(request_in: akun_schemas.MatchAkunIn, db: Session):
                             request_in_data.level4,
                             request_in_data.level5,
                             request_in_data.level6)) for request_in_data in request_in.data]
+
     else:
-        ts_queries = [''.join((request_in_data.after.akun.lstrip('0'),
-                    request_in_data.after.kelompok.lstrip('0'),
-                    request_in_data.after.jenis.lstrip('0'),
-                    request_in_data.after.objek.lstrip('0'),
-                    request_in_data.after.rincian_objek.lstrip('0'),
-                    request_in_data.after.sub_rincian_objek.lstrip('0'),
-                    request_in_data.after.level1,
-                    request_in_data.after.level2,
-                    request_in_data.after.level3,
-                    request_in_data.after.level4,
-                    request_in_data.after.level5,
-                    request_in_data.after.level6)) for request_in_data in request_in.data]
+        ts_queries = [''.join((request_in_data.akun.lstrip('0'),
+                    request_in_data.kelompok.lstrip('0'),
+                    request_in_data.jenis.lstrip('0'),
+                    request_in_data.objek.lstrip('0'),
+                    request_in_data.rincian_objek.lstrip('0'),
+                    request_in_data.sub_rincian_objek.lstrip('0'),
+                    request_in_data.level1,
+                    request_in_data.level2,
+                    request_in_data.level3,
+                    request_in_data.level4,
+                    request_in_data.level5,
+                    request_in_data.level6)) for request_in_data in request_in.data]
 
     res = [db.query(akun_models.Akun).filter(
         text(f"""to_tsvector('simple', f_concat_ws('', akun, kelompok, jenis, objek,

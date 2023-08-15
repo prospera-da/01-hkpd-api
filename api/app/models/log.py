@@ -17,3 +17,4 @@ class Log(Base):
     created_at = Column(DateTime(timezone=True), default=datetime.now())
     updated_at = Column(DateTime(timezone=True), nullable=True)
     deleted_at = Column(DateTime(timezone=True), nullable=True)
+    updated_parent_id = Column(Integer, nullable=True)

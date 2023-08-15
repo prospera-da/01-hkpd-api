@@ -1,0 +1,100 @@
+nohup: ignoring input
+Start Time  = 23:27:05
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+BATCH  2
+101  -  200
+Pausing for 10 seconds...
+BATCH  3
+201  -  300
+Pausing for 10 seconds...
+BATCH  4
+301  -  400
+Pausing for 10 seconds...
+BATCH  5
+401  -  500
+Pausing for 10 seconds...
+BATCH  6
+501  -  600
+Pausing for 10 seconds...
+BATCH  7
+601  -  700
+Pausing for 10 seconds...
+BATCH  8
+701  -  800
+Pausing for 10 seconds...
+BATCH  9
+801  -  900
+Pausing for 10 seconds...
+BATCH  10
+901  -  1000
+Pausing for 10 seconds...
+BATCH  11
+1001  -  1100
+Pausing for 10 seconds...
+BATCH  12
+1101  -  1200
+Pausing for 10 seconds...
+BATCH  13
+1201  -  1234
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 23:49:51
+nohup: ignoring input
+Start Time  = 00:05:50
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 00:06:19
+nohup: ignoring input
+Start Time  = 00:08:44
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 00:08:57
+nohup: ignoring input
+Start Time  = 00:11:02
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 00:11:15
+nohup: ignoring input
+Start Time  = 00:13:17
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 00:13:31
+nohup: ignoring input
+Start Time  = 00:18:07
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 00:18:20
+nohup: ignoring input
+Start Time  = 00:35:37
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 00:35:51
+nohup: ignoring input
+Start Time  = 00:37:34
+http://127.0.0.1:8000/match_akun
+BATCH  1
+1  -  100
+Pausing for 10 seconds...
+All rows sent.
+End Time  = 00:37:46
